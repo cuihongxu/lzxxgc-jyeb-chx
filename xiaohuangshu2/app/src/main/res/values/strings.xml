@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">xiaohuangshu</string>
+    <string name="denglu">Denglu</string>
+    <string name="zhuce">Zhuce</string>
+    <string name="zhanghao">Zhanghao</string>
+    <string name="mima">Mima</string>
+    <string name="great_you_ve_login">Great, you\'ve logged in!</string>
+</resources>
